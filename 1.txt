@@ -1,2 +1,7 @@
 hello
+This is merge between gaurav and aditya
+<<<<<<< HEAD
 this is conflit line by gaurav
+=======
+this is conflict line by aditya
+>>>>>>> 774ab58afdce941161a86a8292db7d983821f75a
